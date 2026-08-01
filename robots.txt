@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pasalo-cars-ph-2-zpig.vercel.app/sitemap.xml
